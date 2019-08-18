@@ -1,0 +1,34 @@
+@media (device-width:100%;) {
+
+}
+img,embed,object,video{max-width: 100%;}
+
+
+
+
+.girlspictures li {
+  display: inline-block;
+}
+.girlspictures{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.girlspictures.pic1{
+  margin-left: 150px;
+  margin-right: 55px;
+}
+.girlspictures.pic1 img{
+  border-radius: 50%;
+}
+.girlspictures.pic2{
+  margin-right: 55px;
+}
+.girlspictures.pic2 img{
+  border-radius: 50%;
+}
+.girlspictures.pic3{
+  margin-right: 250px;
+}
+.girlspictures.pic3 img{
+  border-radius: 50%;
+}

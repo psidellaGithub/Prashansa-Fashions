@@ -1,0 +1,39 @@
+@media (device-width:100%;) {
+
+}
+img,embed,object,video{max-width: 100%;}
+
+
+
+
+.womenpictures li {
+  display: inline-block;
+}
+
+.womenpictures{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.womenpictures.pic1{
+  margin-left: 150px;
+  margin-right: 55px;
+}
+.womenpictures.pic1 img{
+  border-radius: 50%;
+}
+.womenpictures.pic2{
+  margin-right: 55px;
+}
+.womenpictures.pic2 img{
+  border-radius: 50%;
+}
+.womenpictures.pic3{
+  margin-right: 250px;
+}
+.womenpictures.pic3 img{
+  border-radius: 50%;
+}
+
+.womenpicturesprices li {
+  display: inline-block;
+}

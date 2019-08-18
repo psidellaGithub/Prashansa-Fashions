@@ -1,0 +1,34 @@
+@media (device-width:100%;) {
+
+}
+img,embed,object,video{max-width: 100%;}
+
+
+
+
+.aboutpictuers li {
+  display: inline-block;
+}
+.aboutpictuers{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.aboutpictuers.pic1{
+  margin-left: 100px;
+  margin-right: 55px;
+}
+.aboutpictuers.pic1 img{
+  border-radius: 50%;
+}
+.aboutpictuers.pic2{
+  margin-right: 55px;
+}
+.aboutpictuers.pic2 img{
+  border-radius: 50%;
+}
+.aboutpictuers.pic3{
+  margin-right: 250px;
+}
+.aboutpictuers.pic3 img{
+  border-radius: 50%;
+}

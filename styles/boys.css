@@ -1,0 +1,34 @@
+@media (device-width:100%;) {
+
+}
+img,embed,object,video{max-width: 100%;}
+
+
+
+
+.boyspictures li {
+  display: inline-block;
+}
+.boyspictures{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.boyspictures.pic1{
+  margin-left: 150px;
+  margin-right: 55px;
+}
+.boyspictures.pic1 img{
+  border-radius: 50%;
+}
+.boyspictures.pic2{
+  margin-right: 55px;
+}
+.boyspictures.pic2 img{
+  border-radius: 50%;
+}
+.boyspictures.pic3{
+  margin-right: 250px;
+}
+.boyspictures.pic3 img{
+  border-radius: 50%;
+}
